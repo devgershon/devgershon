@@ -25,8 +25,8 @@ Generally, I just a tech enthusiast, my friends call me 'tech bro' and I love Ap
 	•	Startup projects focusing on scalability and performance optimization
 
 📫 How to reach me
-	•	Email: gershonelikem1998@gmail.com
-	•	LinkedIn: https://www.linkedin.com/in/gershon-normenyo-1a33b91b8/ 
+	•	Email: devgershon@gmail.com
+	•	LinkedIn: https://www.linkedin.com/in/gershon-normenyo
 
 ⚡ Fun fact
 
