@@ -1,6 +1,6 @@
 👋 Hey there, I’m Gershon Elikem, you can call me for Eli for short!
 
-I’m a Computer Engineering graduate (at least I will graduate Aug. 2025 😁). I have great passion for software development, cloud computing, and data-driven solutions. I love building scalable applications and solving complex problems with code.
+I’m a Computer Engineering graduate from the University of Nottingham. I have great passion for software development, cloud computing, and data-driven solutions. I love building scalable applications and solving complex problems with code.
 Generally, I just a tech enthusiast, my friends call me 'tech bro' and I love Apple products.
 
 👀 What I’m into
@@ -26,7 +26,7 @@ Generally, I just a tech enthusiast, my friends call me 'tech bro' and I love Ap
 
 📫 How to reach me
 	•	Email: devgershon@gmail.com
-	•	LinkedIn: https://www.linkedin.com/in/gershon-normenyo
+	•	LinkedIn: https://www.linkedin.com/in/gershonen
 
 ⚡ Fun fact
 
