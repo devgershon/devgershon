@@ -1,27 +1,17 @@
-I’m Gershon Elikem, you can call me for Eli for short!
+Hey, I'm Gershon — Computer Engineer from KNUST, MSc from the University of Nottingham.
 
-I’m a Computer Engineering graduate from the University of Nottingham. I have great passion for software development, cloud computing, and data-driven solutions. I love building scalable applications and solving complex problems with code.
-Generally, I just a tech enthusiast, my friends call me 'tech bro' and I love Apple products.
+Most of my time goes into building cloud infrastructure on AWS, writing Python and Swift, and following technical rabbit holes further than I should. Right now I’m working through a portfolio of real AWS projects — S3, Lambda, API Gateway, ECS, VPCs — all as infrastructure as code with Terraform.
 
-👀 What I’m into
-	•	Software & Cloud Engineering – Building robust applications using Swift (SwitUI, SwiftData), Python, Go, and SQL
-	•	AI & Data Processing – Exploring Big Data, Machine Learning, and Distributed Systems
-	•	Cybersecurity & DevOps – Implementing secure and efficient software pipelines
-	•	Tech & Entrepreneurship – Passionate about using technology to drive real-world impact
-	•	Apple ecosystem enthusiast
+My MSc covered a wide range: parallel computing with MPI and CUDA, FPGA design in VHDL, embedded systems, AI, and a thesis where I built a real-time augmented reality thermal visualisation system that runs on an iPhone. That one was hard work in the best way.
 
-💼 Work & Projects
-	•	Real-Time Thermal Imaging Using Augmented Reality and Accelerated 3D Models	
-	•	Junior Software & Data Engineer: Developed an inventory management system and optimized software solutions for businesses
-	•	Solar Tracking System:  Built a dual-axis solar tracker with real-time data monitoring
-	•	Big Data Processing: Implemented workflows using Hadoop, Hive, and Spark
+Outside of that I’m deep in the Apple ecosystem — SwiftUI, SwiftData, and anything iOS. My friends have stopped trying to talk me out of it.
 
-💞️ Looking to collaborate on
-	•	Open-source projects in AI, cloud computing, or data engineering
-	•	Tech initiatives that empower communities and drive innovation
-	•	Startup projects focusing on scalability and performance optimization
+**Currently working on**
+- AWS cloud engineering portfolio (Projects 1 and 2 live — see the pinned repos)
+- iOS development with SwiftUI
+- Getting better at Go
 
-
-⚡ Fun fact about
-
-I once led a robotics club and helped teams compete in national robotics competitions! 🚀
+**Open to**
+- Cloud, infrastructure, or software engineering roles in the UK
+- Interesting open-source work
+- Conversations about AWS, Apple platforms, or embedded systems
