@@ -1,4 +1,4 @@
-I'm Gershon, I'm a computer engineering from KNUST, and an MSc from the University of Nottingham.
+I'm Gershon, I'm a computer engineering background from KNUST, and an MSc from the University of Nottingham.
 
 Most of my time goes into building cloud infrastructure on AWS, writing Python and Swift, and following technical rabbit holes further than I should. Right now I’m working through a portfolio of real AWS projects using S3, Lambda, API Gateway, ECS, VPCs, all as infrastructure as code with Terraform.
 
